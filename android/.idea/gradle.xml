@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../../../SelfStudy/Flutter/flutter_1.7.8/.pub-cache/hosted/pub.dartlang.org/audioplayers-0.13.1/android" />
+            <option value="$PROJECT_DIR$/../../../../../SelfStudy/Flutter/flutter_1.7.8/.pub-cache/hosted/pub.dartlang.org/camera-0.4.3+2/android" />
+            <option value="$PROJECT_DIR$/../../../../../SelfStudy/Flutter/flutter_1.7.8/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.12.7+1/android" />
+            <option value="$PROJECT_DIR$/../../../../../SelfStudy/Flutter/flutter_1.7.8/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/android" />
+            <option value="$PROJECT_DIR$/../../../../../SelfStudy/Flutter/flutter_1.7.8/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+8/android" />
+            <option value="$PROJECT_DIR$/../../../../../SelfStudy/Flutter/flutter_1.7.8/.pub-cache/hosted/pub.dartlang.org/firebase_database-3.0.5/android" />
+            <option value="$PROJECT_DIR$/../../../../../SelfStudy/Flutter/flutter_1.7.8/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.4/android" />
+            <option value="$PROJECT_DIR$/../../../../../SelfStudy/Flutter/flutter_1.7.8/.pub-cache/hosted/pub.dartlang.org/path_provider-1.1.2/android" />
+            <option value="$PROJECT_DIR$/../../../../../SelfStudy/Flutter/flutter_1.7.8/.pub-cache/hosted/pub.dartlang.org/screen-0.0.5/android" />
+            <option value="$PROJECT_DIR$/../../../../../SelfStudy/Flutter/flutter_1.7.8/.pub-cache/hosted/pub.dartlang.org/sqflite-1.1.6+2/android" />
+            <option value="$PROJECT_DIR$/../../../../../SelfStudy/Flutter/flutter_1.7.8/.pub-cache/hosted/pub.dartlang.org/tflite-1.0.4/android" />
+            <option value="$PROJECT_DIR$/../../../../../SelfStudy/Flutter/flutter_1.7.8/.pub-cache/hosted/pub.dartlang.org/video_player-0.10.1+5/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

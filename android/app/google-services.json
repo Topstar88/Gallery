@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "189711526043",
+    "firebase_url": "https://fir-img-id-trigger.firebaseio.com",
+    "project_id": "fir-img-id-trigger",
+    "storage_bucket": "fir-img-id-trigger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189711526043:android:294c3e6fd5e8727e",
+        "android_client_info": {
+          "package_name": "com.conexustech.gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189711526043-8ctb3hsnbfk479hjeuh6kn8mpsv580te.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALTP3LWG0CGj5dedu4YjotuIb02UzVLoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189711526043-8ctb3hsnbfk479hjeuh6kn8mpsv580te.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

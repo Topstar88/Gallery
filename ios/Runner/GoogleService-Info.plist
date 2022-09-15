@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>189711526043-ucel8g5ks57mi039f41dldajr6etnh1m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.189711526043-ucel8g5ks57mi039f41dldajr6etnh1m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAmpU1ORqozQKJv3KX14b4D7XBnFjMdgGU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>189711526043</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.conexustech.gallery</string>
+	<key>PROJECT_ID</key>
+	<string>fir-img-id-trigger</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-img-id-trigger.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:189711526043:ios:294c3e6fd5e8727e</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-img-id-trigger.firebaseio.com</string>
+</dict>
+</plist>
